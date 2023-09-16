@@ -1,0 +1,64 @@
+---
+amazon:
+  - acsechocaptiveportal.com
+  - api.amazonalexa.com
+  - api.amazon.com
+  - avs-alexa-14-na.amazon.com
+  - d28756ok3q8pa.cloudfront.net
+  - d29r7idq0wxsiz.cloudfront.net
+  - d37b6sgey2y8gt.cloudfront.net
+  - d37bvzh6941o03.cloudfront.net
+  - d3b28lu8h5txed.cloudfront.net
+  - d3p8zr0ffa9t17.cloudfront.net
+  - dcape-na.amazon.com
+  - det-ta-g7g.amazon.com
+  - device-artifacts-v2.s3.amazonaws.com
+  - dss-na.amazon.com
+  - dxz5jxhrrzigf.cloudfront.net
+  - ffs-provisioner-config.amazon-dss.com
+  - ingestion.us-east-1.prod.arteries.alexa.a2z.com
+  - mlis.amazon.com
+  - msh.amazon.com
+  - music.amazon.com
+  - ntp-g7g.amazon.com
+  - prod.amcs-tachyon.com
+  - s3.amazonaws.com
+  - s3.eu-west-2.amazonaws.com
+  - softwareupdates.amazon.com
+  - spectrum.s3.amazonaws.com
+  - tinytts.amazon.com
+  - device-metrics-us-2.amazon.com
+  - fireoscaptiveportal.com
+chartable holding:
+  - chtbl.com
+datacamp:
+  - 1432239411.rsc.cdn77.org
+dilli labs:
+  - dillilabs.com
+garmin:
+  - static.garmincdn.com
+libsyn:
+  - content.libsyn.com
+  - traffic.libsyn.com
+youversion:
+  - audio-bible-cdn.youversionapi.com
+  - audioproxy.youversionapi.com
+npr:
+  - edge1.pod.npr.org
+  - edge2.pod.npr.org
+philips:
+  - discovery.meethue.com
+podtrac:
+  - dts.podtrac.com
+  - play.podtrac.com
+spotify:
+  - dcs.megaphone.fm
+  - traffic.megaphone.fm
+triton digital:
+  - 16613.live.streamtheworld.com
+  - 22113.live.streamtheworld.com
+  - playerservices.streamtheworld.com
+  - traffic.omny.fm
+  - turnernetworksales.mc.tritondigital.com
+voice apps:
+  - cdn2.voiceapps.com

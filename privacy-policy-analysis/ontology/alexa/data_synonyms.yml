@@ -1,0 +1,1124 @@
+---
+# irrelevant things
+IGNORE:
+
+information:
+
+other data:
+  - your cv
+  - profile picture
+  - "\" friendly name"
+  - "\" room name"
+  - "\" zone name"
+  - "( \" driving data"
+  - "( \" human resources data"
+  - "( collectively , \" drive data"
+  - "( e.g. , bookmark"
+  - "( for example , information about hobby"
+  - "( if you make product purchase ) , your shipping information"
+  - your order and delivery detail
+  - ad block info
+  - avatar
+  - behavior
+  - profile photo
+  - your photo
+  - your travel preference
+  - your travel profile and marketing preference
+  - your screen name
+  - certain tax information
+  - your windows device
+  - your windows diagnostic datum
+  - windows diagnostic datum
+  - your onedrive content
+  - itinerary
+  - biography
+  - local file
+  - local share object
+  - local store object
+  - information about online advertisement that be display on website
+  - information about your use of our site
+  - information about your use of other website
+  - information about your use of our website
+  - information regard use of other website
+  - "information regard your use of other company ' website"
+  - time of opening and frequency
+  - time spend on our website
+  - datum about commercial view history
+  - information relate to your browse history
+  - information relate to your order
+  - information relate to your sleep
+  - radio station browse history
+  - message history
+  - search history
+  - user history
+  - your browse history
+  - your chrome browse history
+  - aggregated statistic about page view
+  - brief biography
+  - battery life
+  - battery voltage level
+  - call and message log information
+  - call detail
+  - call recording
+  - your call recording
+  - calendar information
+  - cctv security surveillance footage
+  - cell id
+  - content of e-mail
+  - content of email
+  - content of file
+  - content of message
+  - content of review
+  - content of your communication
+  - content of your post
+  - content you store
+  - insulin dose information
+  - your current insulin brand
+  - kind of fitness and wellness data
+  - fitness and wellness data
+  - your calendar
+  - your calendar event
+  - your activity
+  - your activity data or myvizio account name
+  - information about education
+  - information about level of dirt detection
+  - information about national origin or immigration status
+  - information about professional training and certification
+  - information about promotional offer
+  - information about traffic
+  - information about placement of your ink instrument on your device
+  - information about your beauty preference
+  - information about your body
+  - information about your browsing or usage habit
+  - information about your clothing size
+  - information about your communication
+  - information about your computer
+  - information about your computer hardware
+  - information about your eufyhome
+  - information about your friend
+  - information about your internet
+  - information about your session
+  - information about your shopping preference
+  - information regard customer traffic pattern
+  - information regard friends of hue product
+  - information regard your reward point
+  # robot
+  - information about robot
+  - "information about robot's movement throughout environment"
+  - information about your robot
+  - robot datum
+  - robot id
+  - robot name
+  # software version / type
+  - software version
+  - software version info
+  - application type
+  - device manufacture date
+  - device manufacturer
+  - device name
+  - device type
+  - type of device
+  - type of devices
+  - type of mobile device
+  - type of your device
+  - your device type
+  - your hardware model
+  - "e.g. , device model name"
+  - "make / model"
+  - os version
+  - system version
+  - version
+  - version number
+  - app version
+  - operate system version
+  # irrelevant device ids
+  - wifi access points
+  - wifi mac address
+  - your wifi ssid
+  - mac address
+  - mac address of your unit
+  - bluetooth address
+  - wi-fi access point
+  # browser info
+  - browse behavior
+  - browse history
+  - browse pattern
+  - browser activity
+  - browser and device characteristic
+  - browser datum
+  - browser information
+  - browser type
+  - browser version
+  - information about your browser
+  - type and version of browser
+  - type of mobile internet browser
+  - your browser type
+  - datum about type of device or browser
+  # password
+  - account password
+  - password
+  - password hint
+  - unique password
+  - your facebook password
+  - your password
+  - log-in credential
+  - your login credential
+  - credential
+  - security code
+  - security question response
+  # child data
+  - child's datum
+  - child's personal information
+  - limited information about child
+  - your minor child's information
+  - detail about how child
+  - information of child
+  - number of child
+  # vehicle information
+  - vin
+  - limited vehicle datum
+  - other datum about your vehicle or interest
+  - other vehicle information
+  - vehicle data
+  - vehicle health data
+  - vehicle information
+  - vehicle status
+  - vehicle-associate datum
+  - vehicle-relate information
+  - datum about vehicle
+  - "detail about your vehicle's use"
+  - electronic datum relate to your vehicle usage
+  - information about other approve driver of your vehicle
+  - your vehicle in connection
+  - information about your car
+  - your drive behavior
+  - your drive behavior datum
+  - your driver behavior
+  - information about your drive behavior
+  - comment about parking facility
+  - parking preference
+  - driving data
+  - driving habit
+  - such driving data
+  - your driving data
+  # payment
+  - bank account information
+  - certain billing and payment information
+  - credit card number
+  - other payment information
+  - payment information
+  - "credit or debit card ( \" payment card \" ) datum"
+  - credit or payment card number
+  - donation / payment information
+  - information necessary for process payment
+  - payment card datum
+  - payment card information
+  - payment card number
+  - payment datum
+  - payment detail
+  - payment information
+  - payment or credit card information
+  - payment transaction
+  - your payment card detail
+  - your payment card information
+  - your payment information
+  - your payment method information
+  - your general purchase history
+  - your offline purchase history datum
+  - your purchase history
+  - list of purchase item
+  - other purchasing or consume history
+  - other purchasing or consume information
+  - past purchase history
+  - billing and credit card information
+  - card expiration date
+  - card number
+  - cvv code
+  - copy of your credit card number
+  - credit card and billing information
+  - credit card datum
+  - credit card information
+  - credit card number
+  - debit card number
+  - "e.g. , credit card number"
+  - information about complete transaction that do not include credit card number
+  - last four digit of your card number
+  - last four digit of your credit card number
+  - other card number
+  - your card issuer's name
+  - your credit card information
+  - your credit card number
+  - "( e.g. , credit card number"
+  - billing information
+  - your billing information
+  - invoice address
+  - invoice date
+  - invoice history
+  - detail of your transaction history
+  - financial transaction datum
+  - information about your transaction
+  - such transaction detail
+  - transaction datum
+  - transaction information
+  - transactional information
+  - your transaction
+  - your transaction history
+  - your transaction information
+  - financial account information
+  - financial account number
+  - financial information
+  - information about financial incentive
+  - other financial information
+  - your personal financial information
+  - certain financial information
+  - corporate and financial information
+  - credit history information
+  - credit related information
+  - credit status
+  # physical address
+  - billing address
+  - billing addressee
+  - mailing address
+  - delivery / shipping address
+  - delivery address
+  - delivery information
+  - home address in order
+  - home or business address
+  - mail address
+  - mailing address
+  - postal address
+  - physical address
+  - return address
+  - shipment and invoice address
+  - shipping address
+  - ship information
+  - your address information
+  - your billing address
+  - your business address
+  - your home address
+  - your physical address
+  - your postal address
+  - your postal address online
+  - your shipping address
+  - your zip or postal code
+  - zip code
+  - zip code in our database
+  - zip code level
+  - postal code
+  - your postal code
+  # phone number
+  - mobile number
+  - mobile phone number
+  - phone number
+  - phone number use to call our customer service number
+  - telephone number
+  - your phone number
+  - your telephone number
+  - area code number
+  - call-party number
+  - contact number
+  - your mobile number
+  - sms text number
+  # birthday
+  - birth date
+  - birthdate
+  - birthplace
+  - date of birth
+  - date or birth
+  - your birthdate
+  - your date of birth
+  - your age
+  - age
+  - age range
+  - age-indicative information
+  # person name
+  - buyer's name
+  - contact name
+  - customer's name
+  - "e.g. , first name"
+  - "e.g. , name"
+  - first name
+  - first and last name
+  - first initial of your last name
+  - full name
+  - last name
+  - real name
+  - your first and last name
+  - your first name
+  - your full name
+  - your real name
+  - your name
+  # gov id numbers
+  - your social security number
+  - other government identifier
+  - passport number
+  - "driver's license number"
+  - ssn
+  # irrelevant demographic info
+  - sex
+  - your gender
+  - gender
+  - gender information
+  - information about your gender
+  - education information
+  - occupation
+  - employment
+  - employment education
+  - employment history
+  - employment information
+  - employment qualification
+  - information about current employee
+  - other detail of your employment history
+  - job background
+  - job title
+  - information about your health
+  - "( health datum"
+  - detail of health
+  - detail relate to your health or medical
+  - form of health information
+  - health information
+  - part of health-relate segment about non-sensitive condition
+  - your health information
+  - your healthkit information
+  - your height
+  - height
+  - weight
+  - weight datum
+  - household datum
+  - household information
+  - size of your household
+  - home or business size
+  - "date , time and duration of viewing"
+  - date / time stamp
+  - date / time stamp for visitor
+  - date and time marking and click rate datum
+  - date and time of your request
+  - date and time of your visit
+  - date and time you access site
+  - date and time you access vw website
+  - date you last sync
+  - last update date
+  - time
+  - time of day
+  - time stamp and connection type of your device
+  - time you visit
+  - timestamp
+
+general data:
+  - aggregation of user datum
+  - anonymous user datum
+  - application data
+  - application detail
+  - application information
+  - user datum
+  - additional datum about how you use
+  - additional personal datum
+  - additional type of datum
+  - "aggregate , de-identify diagnostic datum"
+  - aggregate datum
+  - aggregate anonymized information
+  - aggregate information
+  - aggregate information about our user
+  - aggregate or de-identify information
+  - aggregate or de-identify information about use of
+  - aggregate personal data
+  - aggregate statistic
+  - aggregate statistical information
+  - aggregate user statistic
+  - aggregated datum
+  - aggregated and anonymous information
+  - aggregated information
+  - analytic datum
+  - "anonymiz , aggregate datum"
+  - anonymised and aggregated information
+  - anonymised information
+  - anonymized and aggregated information
+  - anonymized datum
+  - anonymized or de-identify information
+  - anonymous and aggregated information
+  - anonymous consumer information
+  - anonymous data
+  - anonymous datum
+  - anonymous information
+  - anonymous or aggregated data
+  - both personal and non-personal datum
+  - category of personal datum
+  - both your personal datum
+  - basic demographic datum
+  - basic demographic information
+  - certain demographic datum
+  - de-identify demographic information
+  - demographic
+  - demographic information
+  - de-identify datum
+  - de-identify information
+  - de-identify information about environment
+  - generic aggregated demographic information
+  - optional demographic information
+  - other demographic and similar information
+  - your demographic datum and audience segment
+  - your demographic information
+  - "\" personal datum"
+  - "\" personal information"
+  - additional personal data
+  - your sensitive personal data
+  - other anonymized or de-identify information
+  - such anonymized or aggregate information
+  - your anonymous information
+  - "aggregate , anonymous consumer information"
+  - "aggregate , de-identify information"
+  - "aggregate , non personal information about site user"
+  - other deidentify information
+  - other datum
+  - other datum about you
+  - "limited , aggregated information"
+  - limited information
+  - non-directly identifiable information
+  - non-identify information
+  - non-personal datum
+  - non-personal information
+  - non-personally identifiable information
+  - non-personally identifiable information about you
+  - commercial purchase information
+  - commercial purchasing information
+  - limited personal datum
+  - limited set of datum
+  - your info
+  - your information
+  - copy of specific personal information
+  - copy of your personal information
+  - your personal data
+  - your personal datum
+  - your personal detail
+  - your personal information
+  - your persona datum
+  - your personally identifiable datum
+  - your personally identifiable information
+  - basic identify information
+  - category of kind of personally identifiable information
+  - certain personal datum
+  - certain personal information
+  - certain personally identifiable information
+  - certain non-personally identifiable information
+  - certain optional information
+  - certain other information
+  - certain public information
+  - certain right regard your personal information
+  - certain selective datum
+  - certain sensitive information
+  - certain service information
+  - certain technical information
+  - certain information about you
+  - certain information about your browsing preference
+  - certain information about your visit
+  - individually identifiable information
+  - other personally identifiable information
+  - other personally non-identifiable datum
+  - personal identifiable information
+  - personal or non-identifiable information
+  - personally identifiable datum
+  - personally identifiable information
+  - personally identifiable information about you
+  - personally-identifiable information
+  - "their ' personally identifiable information"
+  - your confidential information
+  - highly-confidential information
+  - identify information
+  - information that do not identify
+  - information that do not personally identify you
+  - information that may help us
+  - information that personally identify you
+  - information that reasonably identify you
+  - information you give us
+  - information about you
+  - information about your use of youversion
+  - "( \" telematics data"
+  - "( information"
+  - "( non-personal datum"
+  - additional and contextual information
+  - additional category of personal information
+  - additional connected data
+  - additional detail
+  - additional information
+  - additional information about you
+  - additional personal information
+  - additional personal or non-personal information
+  - additional technical information
+  - "customer ' personal datum"
+  - "customer ' personal information"
+  - customer information
+  - collect personal datum
+  - collect personal information
+  - "consumer's personal datum"
+  - marketing and communication datum
+  - minimum amount of personal datum
+  - necessary personal datum
+  - nonpersonal datum
+  - optional diagnostic datum
+  - optional information
+  - other category of personal datum
+  - other diagnostic datum
+  - other personal data
+  - other personal datum
+  - other personal information
+  - other non-sensitive information
+  - other non-sensitive personal data
+  - personal data
+  - personal datum
+  - automatic information
+  - such identify information
+  - such information
+  - such personal data
+  - such personal datum
+  - such personal information
+  - non-sensitive personal data
+  - sensitive personal data
+  - sensitive datum
+  - sensitive information
+  - that personal data
+  - their personal data
+  - their personal datum
+  - their personal information
+  - "third party's information"
+  - various category of personal data
+  - pseudonymous and aggregated datum
+  - pseudonymous datum
+  - pseudonymous information
+  - datum in aggregate form
+  - "true , accurate , current and complete information"
+  - "true , accurate , current and complete information about yourself"
+  - "true , accurate and complete information about yourself"
+  - functional data
+  - functional datum
+  - information on behalf of third party
+  - your relevant personal information
+  - your sensitive personal datum
+  - service information
+  - app information
+  - basic information
+  - collected information
+  - combined information
+  - datum about user
+  - datum about feature you use
+  - datum about your practice
+  - datum regard your use of our services
+  - datum necessary
+  - datum about you
+  - "nevada resident ' personal information"
+  - "\" commercial information"
+  - "\" your information"
+  - "( \" personal information"
+  - technical datum
+  - technical information
+  - various type of datum
+  - various type of information
+  - various type of personal information
+  - various type of user information
+  - specific information
+  - specific personal datum
+  - specific personal information
+  - specific piece of personal information
+  - specific type of information
+  - specific us of information
+  - user provide information
+  - user provide personal information
+  - personal and business information
+  - personal and non-personal information
+  - personal characteristic
+  - personal datum about your use
+  - personal information
+  - personal information about you
+  - personally-identify information
+  - potentially personally-identify information
+  - non-personally-identify information
+  - other information
+  - other information about you
+  - other request information
+  - other type of information
+  - other metadata
+  - other record
+  - information about app
+  - information about computer
+  - information about content
+  - information about content of your file
+  - information about firmware
+  - information about our product
+  - information about use of mobile version of services
+  - information about user
+  - information about user of our service
+  - information about way you use actions
+  - information about way you use skills
+  - information about yourself
+  - information datum
+  - information necessary
+  - information on product
+  - information relate to use of our product
+  - information relate to you
+  - information about your use of kia connect services
+  - information about your use of our connected product
+  - information about your use of our services
+  - information provide during set up
+  - your general membership information
+  - your private information
+  - your non-sensitive personal data
+  - similar security information
+
+device information:
+  - limited device datum
+  - device data
+  - device datum
+  - device detail
+  - certain information about device or product
+  - "additional datum about device , connectivity"
+  - your device data
+  - "( \" standard device datum"
+  - connected device detail
+  - datum about device
+  - datum about your device
+  - datum in relation to your device
+  - information about type of device you use to access our website
+  - information about your device's capability
+  - information about your roku devices
+  - information concern your device
+  - information on type of device you use
+  - information regard performance of individual device hardware component
+  - information relate to your mobile device
+  - device diagnostic information
+  - device information
+  - device log file
+  - device status
+  - log file
+  - log file information
+  - log information
+  - product log
+  - server log
+  - server log information
+  - web log
+  - text log
+  - our server log
+  - diagnostic datum
+  - diagnostic data
+  - diagnostic information
+  - system diagnostic datum
+  - limit require diagnostic datum
+  - "( e.g. , unit description"
+  - technical datum about your equipment
+
+user preference:
+  - product preference
+  - your user preference
+  - demographic and preference information
+  - information about your preference
+  - configuration detail
+  - your preference
+  - preference
+
+usage information:
+  # keywords: usage / event / activity / interaction / performance
+  - activity data
+  - activity information
+  - information about your activity
+  - information about your activity in our service
+  - information about your browse activity
+  - information about your connected home products usage activity
+  - information about your online activity
+  - information about your online activity on website
+  - internet / electronic activity
+  - internet activity
+  - internet activity information
+  - internet or network activity
+  - internet or other electronic activity
+  - internet or similar network activity
+  - network activity
+  - network activity information
+  - online activity
+  - other activity
+  - other electronic network activity
+  - other electronic network activity information
+  - other information relate to particular activity
+  - other network activity
+  - relevant product activity information
+  - your activity data
+  - your online activity
+  - your search activity
+  - your exercise or activity datum
+  - account activity
+  - commercial and electronic network activity information
+  - datum base on your activity
+  - datum relate to your activity
+  - "information about consumer's online activity"
+  - "information about individual ' internet or other similar network activity"
+  - personal activity datum
+  - additional usage data
+  - unit usage information
+  - app usage datum
+  - app usage information
+  - certain type of usage information
+  - certain functional and additional usage data
+  - certain usage
+  - certain usage information
+  - datum about usage of feature
+  - datum of usage
+  - device and usage datum
+  - "e.g. , usage information"
+  - follow additional usage data
+  - information about robot and app usage
+  - information about your devicesand usage pattern
+  - information about your product usage
+  - product usage datum
+  - service usage information
+  - usage data
+  - usage datum
+  - usage datum about your communication
+  - usage frequency
+  - usage information
+  - usage pattern
+  - usage statistic
+  - personally identifiable usage information
+  - non-personally identifiable usage information
+  - your product usage
+  - your service usage data
+  - your usage datum
+  - "\" usage data"
+  - "\" usage datum"
+  - "( \" usage information"
+  - "information about your and your device ' interaction"
+  - interaction
+  - interaction datum
+  - other datum relate to your interaction
+  - your online interaction
+  - information about interaction of your app
+  - "information about user's interaction"
+  - information about your interaction
+  - information regard your interaction
+  - ": internet activity information"
+  - event information
+  - system performance datum
+  - other datum regard product performance
+  - performance data
+  - performance information
+
+
+language:
+  - language preference
+  - your language
+  - your language preference
+  - your regional and language setting
+  - browser language
+  - language
+  - language preference
+  - language reference
+  - language selection
+
+
+timezone:
+  - time zone
+  - timezone
+  - datum concern date and time
+  - time / date
+
+geographical location:
+  - your geo-location information
+  - your geographic location
+  - your geographical information
+  - your geolocation
+  - your geolocation information
+  - geo-fence information
+  - your precise geolocation information
+  - geo-location
+  - geo-location and device identifier
+  - geo-location information
+  - geo-location of your device
+  - geographic location
+  - geographical
+  - geographical location
+  - geolocation
+  - geolocation data
+  - geolocation datum
+  - geolocation information
+  - geolocation information about your device
+  - geolocation of your vehicle
+  - gps location information
+  - alexa customer device location information
+  - datum about your location
+  - coarse location
+  - current location
+  - de-identify location datum
+  - de-identify location information
+  - demographic and geo-location
+  - description of your location
+  - device's location
+  - general location datum
+  - in-store location
+  - information about your actual physical location
+  - information about your device's location
+  - information about your geolocation
+  - information about your location
+  - information regard your geo-location
+  - ip address / location information
+  - limited location information
+  - "geolocation , web page"
+  - "\" vehicle location"
+  - "( \" location data"
+  - location
+  - location data
+  - location datum
+  - location information
+  - location name
+  - location of your device
+  - location-relate information
+  - location-base information
+  - new location information
+  - "precise , real-time location"
+  - "precise , real-time location information"
+  - precise geolocation datum
+  - precise location
+  - precise location datum
+  - precise location information
+  - precise mobile device location
+  - specific geolocation information
+  - vehicle location
+  - your approximate location
+  - your car's location
+  - your current location
+  - your device's location
+  - your device's location information
+  - your location
+  - your location data
+  - your location datum
+  - your location information
+  - your location-base information
+  - your mobile device location information
+  - your vehicle's latitude
+  - your vehicle's location
+  - your vehicle's location data
+  - your vehicle's location information
+  - longitude
+  - longitude information
+  - latitude
+  - device location name
+  - location mapping
+  - country of residence
+
+account information:
+  # keywords: account / registration / profile
+  - your account information
+  - account detail
+  - account information
+  - account datum
+  - your online account information
+  - "subscriber's account information"
+  - your account information
+  - your registration information
+  - registration datum
+  - registration information
+  - your publicly available information
+  - your profile
+  - your profile datum
+  - your profile information
+  - aggregated or de-identify demographic / profile datum
+  - additional profile information
+  - other profile information
+  - user profile
+  - profile information
+
+ip address:
+  - "appliance's ip address"
+  - complete ip address
+  - ip address
+  - e.g. ip address
+  - entire ip address
+  - information about ip address
+  - ip-address
+  - only ip address
+  - their ip address
+  - "user ' ip address"
+  - "your device's ip address"
+  - your internet service provider and ip address
+  - your ip address
+  - unique internet address
+  - "\" ip \" ) address"
+  - "\" ip \" ) address and standard web log information"
+  - your internet protocol address
+  - internet address
+  - internet protocol
+  - internet protocol address
+  - network address
+  - track of internet protocol address
+
+device sensor information:
+  - biometric information
+  - datum from sensor
+  - sensory information
+  - datum from remote sensor
+
+voice data:
+  - recording
+  - audio data
+  - voice recording transcription
+  - voice and text datum
+  - voice clip
+  - voice command
+  - voice datum
+  - voice recording
+  - your voice recording
+  - your voice recordings
+  - your voice input
+  - your voice input and performance datum
+  - your voice clip
+  - your voice datum
+  - your image and voice datum
+  - audio and video recording
+  - audio recording
+  - actual recording of your voice command
+  - speech transcription datum
+  - "audio , electronic , visual , and similar information"
+  - "audio , electronic , visual , or similar information"
+  - "audio , visual , and similar information"
+  - "audio , visual or similar information"
+  - audio information
+  - audio and visual information
+  - audio-visual information
+  - audiovisual information
+
+
+identifiers:
+  # keyword: ids / identifier / cookie / number
+  - additional identifier
+  - basic identifier
+  - direct identifier
+  - follow identifier
+  - hash identifier
+  - identifier
+  - identifiers
+  - "such : identifier"
+  - online identifier
+  - other form of persistent or probabilistic identifier
+  - other online identifier
+  - other similar identifier
+  - similar online identifier
+  - specific identifier
+  - unique identifier
+  - your basic identifier
+  - anonymiz id
+  - anonymized id
+  - cookie-id
+  - other proprietary id
+  - id
+  - unique id
+  - unique id number
+  - unique identification number
+  - unique identification value
+  - uuid
+  - cookie number
+  - cookie datum
+  - cookie information
+  - first-party cookie
+  - information use cookie
+  - social sharing cookie
+  - manufacture number
+  - device number
+  - software version number
+  - model number
+  - "your product's version and registration number"
+
+
+device id:
+  - "\" device identifier"
+  - device id
+  - device identifier
+  - device identifier information
+  - "e.g. , unique device identifier"
+  - mobile device identifier
+  - unique device identification number
+  - unique device identifier
+  - "user ' device identifier"
+  - your device id
+  - your device identifier
+  - your mobile device id
+  - your mobile device unique id
+  - your device unique id
+  - serial number
+
+
+user id:
+  # user id, including non-real user names
+  - unique user id
+  - user id
+  - user name
+  - your smartlife account id
+  - auto-generate account id
+  - account name
+  - account number
+  - your account name
+  - customer id
+  - subscriber id
+  - user unique id
+  - your id
+  - your sonos id
+  - unique personal identifier
+  - unique pseudonym
+  - your amazon id
+  - community username
+  - your username
+  - username
+  - "user's name"
+  - customer number
+
+
+advertising id:
+  - advertising id
+  - advertising identifier
+  - advertising identifier on your device
+  - mobile ad identifier
+  - mobile advertising identifier
+  - unique advertising identifier
+
+
+contact information:
+  - contact detail
+  - contact information
+  - "contact information of user ' family"
+  - contact list
+  - other contact
+  - other contact information
+  - personal and business contact information
+  - personal contact detail
+  - record of your contact information
+  - similar contact information
+  - their contact point
+  - update contact information
+  - your business contact datum
+  - your contact
+  - your contact detail
+  - your contact information
+  - your contact list
+  - your personal contact information
+
+
+email address:
+  - additional email address
+  - alternate email address
+  - company email address
+  - e-mail
+  - e-mail address
+  - e-mail-address
+  - "e.g. , e-mail address"
+  - email
+  - email address
+  - email address of your friend
+  - email-address
+  - friend's email address
+  - recipient email address
+  - such email address
+  - their email address
+  - valid email address
+  - work email address
+  - your associated email address
+  - your e-mail address
+  - your email address
+  - your email-address
+  - your friend's email address
+  - your hash email address
+  - your lw account email address
+  - your indicate e-mail preference

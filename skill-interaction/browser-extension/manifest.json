@@ -1,0 +1,26 @@
+{
+
+  "manifest_version": 2,
+  "name": "OverrideWebdriver",
+  "version": "1.0",
+
+  "description": "Overrides navigator.webdriver",
+
+  "icons": {
+    "48": "icons/icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "all_frames": true, 
+      "js": ["webdriver_override.js"], 
+      "match_about_blank": true, 
+      "matches": [
+        "http://*/*", 
+        "https://*/*"
+      ], 
+      "run_at": "document_start"
+    }
+  ]
+
+}
